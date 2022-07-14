@@ -1,4 +1,5 @@
-# coddb4e28a38d246b90e9b9a5
+# NFT site project
+#sematic HTML, hover and active states using pseduo selectors, specificity, compound selectors, inline blocks and multiple classes on one element were used in thids project.
 
 ## About Scrimba
 
